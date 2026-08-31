@@ -41,17 +41,28 @@ Python · Java · JavaScript · SQL · HTML · CSS
 
 Git · GitHub · VS Code · REST APIs · Object-Oriented Programming
 
-**Currently Exploring**
+**Currently Learning**
 
-Node.js · Express · React · Next.js
+React · Next.js
+
+** Coming Up **
+
+React · Next.js
 
 ---
 
 ## 🚀 Projects
 
-> My projects are coming as I continue through my software development journey.
+I'm continuously building small projects as I learn and strengthen my development skills.
 
----
+Some of the projects you'll find here include:
+
+- 💱 **Birr Watch** — Currency conversion and watchlist application
+- 🧮 **Simple Calculator** — JavaScript-based calculator
+- 🏦 **Addis Bank Account System** — Python OOP project
+- 💊 **Pharmacy Inventory Tracker** — Python project using dictionaries and file handling
+
+More projects coming as I continue learning and building.
 
 ## 🎯 My Goal
 
@@ -86,7 +97,7 @@ I'm always interested in:
 ### 📫 Connect with me
 
 * 💼 LinkedIn: https://www.linkedin.com/in/hani-t-semayat/
-* 🌐 Portfolio: TBA
+* 🌐 Portfolio: Coming Soon.
 * 📧 Email: hani.t.semayat@gmail.com
 
 ---
