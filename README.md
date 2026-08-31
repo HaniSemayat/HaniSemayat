@@ -1,16 +1,100 @@
-## Hi there 👋
+# Hi there 👋, I'm Hani T.
+🎓 **Software Engineering Student | Aspiring Backend Developer** 🇪🇹
+💻 **Python • Java • JavaScript • Backend Development**
+🌱 Learning, building, and improving one project at a time.
 
-<!--
-**HaniSemayat/HaniSemayat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Software Engineering student at Addis Ababa University**, currently strengthening my practical development skills through the **IBT College Canada CodeOps Advanced Digital Skills Training Program**.
+
+I'm interested in **software development, backend engineering, and building practical applications**. I enjoy learning how things work under the hood and turning what I learn into working projects.
+
+I'm currently developing my skills in **Python, JavaScript, Java, databases, object-oriented programming, Git/GitHub, and web development**, with a growing focus on **backend development and APIs**.
+
+I'm still learning and building my experience, but I believe consistent practice and real projects are the best way to become a better developer.
+
+---
+
+## 🌱 Currently Learning
+
+* 🐍 Python & Object-Oriented Programming
+* 🌐 HTML, CSS & JavaScript
+* ⚙️ Backend Development
+* 🟢 Node.js & Express
+* 🗄️ Databases & SQL
+* 🔧 Git & GitHub
+* 🧩 Data Structures & Algorithms
+* 🏗️ Software Engineering Principles
+* ⚛️ React / Next.js
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+
+Python · Java · JavaScript · SQL · HTML · CSS
+
+**Development**
+
+Git · GitHub · VS Code · REST APIs · Object-Oriented Programming
+
+**Currently Exploring**
+
+Node.js · Express · React · Next.js
+
+---
+
+## 🚀 Projects
+
+> My projects are coming as I continue through my software development journey.
+
+---
+
+## 🎯 My Goal
+
+My current goal is to become a **strong software developer with a focus on backend development**, while continuing to improve my problem-solving and software engineering skills.
+
+I'm particularly interested in building applications that are practical, reliable, and useful.
+
+---
+
+## 📚 My Learning Journey
+
+I'm currently working through a structured software development program where I'm learning not only how to write code, but also how to think about software design.
+
+My approach is simple:
+
+**Learn → Practice → Build → Make mistakes → Understand → Improve**
+
+I believe that every project, even a small one, is an opportunity to understand something better.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in:
+
+* 💻 Software development
+* 🤝 Collaboration
+* 🌱 Learning from other developers
+* 🚀 Building projects
+* 💡 Discussing technology and ideas
+
+### 📫 Connect with me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/hani-t-semayat/
+* 🌐 Portfolio: TBA
+* 📧 Email: hani.t.semayat@gmail.com
+
+---
+
+### ⚡ Fun Fact
+
+I'm currently turning the things I learn in class into small projects — because **writing code is where the real learning begins.**
+
+---
+
+⭐ **Thanks for visiting my profile!**
