@@ -58,7 +58,7 @@ I'm continuously building small projects as I learn and strengthen my developmen
 Some of the projects you'll find here include:
 
 - 💱 **Birr Watch** — Currency conversion and watchlist application
-- 🧮 **Simple Calculator** — JavaScript-based calculator
+- 🧮 **Simple Calculator** — Python Console-based calculator app
 - 🏦 **Addis Bank Account System** — Python OOP project
 - 💊 **Pharmacy Inventory Tracker** — Python project using dictionaries and file handling
 
