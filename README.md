@@ -15,39 +15,42 @@ I'm currently developing my skills in **Python, JavaScript, Java, databases, obj
 
 I'm still learning and building my experience, but I believe consistent practice and real projects are the best way to become a better developer.
 
----
+## 🛠️ Tech Stack
 
-## 🌱 Currently Learning
+### 💻 Languages
 
-* 🐍 Python & Object-Oriented Programming
-* 🌐 HTML, CSS & JavaScript
-* ⚙️ Backend Development
-* 🟢 Node.js & Express
-* 🗄️ Databases & SQL
-* 🔧 Git & GitHub
-* 🧩 Data Structures & Algorithms
-* 🏗️ Software Engineering Principles
-* ⚛️ React / Next.js
+[![Languages](https://skillicons.dev/icons?i=python,java,js,html,css)](https://skillicons.dev)
 
----
+### 🌐 Web Development
 
-## 🛠️ Technologies & Tools
+[![Web Development](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
-**Languages**
+### 🗄️ Databases
 
-Python · Java · JavaScript · SQL · HTML · CSS
+[![Databases](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-**Development**
+### 🧰 Tools
 
-Git · GitHub · VS Code · REST APIs · Object-Oriented Programming
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
-**Currently Learning**
+### 🌱 Currently Learning
 
-React · Next.js
+[![Currently Learning](https://skillicons.dev/icons?i=nodejs,express,react)](https://skillicons.dev)
 
-** Coming Up **
+- 🟢 Node.js & Express
+- ⚛️ React
+- 🌐 REST APIs
+- 🧪 Software Testing & QA
+- 🏗️ Backend Development
 
-React · Next.js
+### 🔭 Coming Next
+
+[![Coming Next](https://skillicons.dev/icons?i=nextjs,ts,postgres,docker)](https://skillicons.dev)
+
+- ▲ Next.js
+- 🔷 TypeScript
+- 🐘 PostgreSQL
+- 🐳 Docker
 
 ---
 
@@ -57,18 +60,21 @@ I'm continuously building small projects as I learn and strengthen my developmen
 
 Some of the projects you'll find here include:
 
-- 💱 **Birr Watch** — Currency conversion and watchlist application
-- 🧮 **Simple Calculator** — Python Console-based calculator app
-- 🏦 **Addis Bank Account System** — Python OOP project
-- 💊 **Pharmacy Inventory Tracker** — Python project using dictionaries and file handling
+* 🍽️ **Addis Eats** — React-based Ethiopian food ordering application
+* 💱 **Birr Watch** — Currency conversion and watchlist application
+* 🧮 **Simple Calculator** — Python console-based calculator
+* 🏦 **Addis Bank Account System** — Python OOP project
+* 💊 **Pharmacy Inventory Tracker** — Python project using dictionaries and file handling
 
 More projects coming as I continue learning and building.
+
+---
 
 ## 🎯 My Goal
 
 My current goal is to become a **strong software developer with a focus on backend development**, while continuing to improve my problem-solving and software engineering skills.
 
-I'm particularly interested in building applications that are practical, reliable, and useful.
+I'm particularly interested in building applications that are **practical, reliable, and useful**.
 
 ---
 
@@ -96,10 +102,10 @@ I'm always interested in:
 
 ### 📫 Connect with me
 
-* 💼 LinkedIn: https://www.linkedin.com/in/hani-t-semayat/
-* 🌐 Portfolio: Coming Soon.
-* 📧 Email: hani.t.semayat@gmail.com
-
+* 💼 LinkedIn: [https://www.linkedin.com/in/hani-t-semayat/]
+* 🌐 Portfolio: Coming Soon
+* 📧 Email: [hani.t.semayat@gmail.com]
+  
 ---
 
 ### ⚡ Fun Fact
@@ -108,4 +114,4 @@ I'm currently turning the things I learn in class into small projects — becaus
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+⭐️ **Thanks for visiting my profile!**
