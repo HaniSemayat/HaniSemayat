@@ -107,6 +107,25 @@ I'm always interested in:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaniSemayat&layout=compact&hide_border=true" height="180" alt="Top Languages">
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/HaniSemayat/HaniSemayat/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/HaniSemayat/HaniSemayat/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/HaniSemayat/HaniSemayat/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
+</p>
+
 ### 📫 Connect with me
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/hani-t-semayat/]
