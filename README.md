@@ -100,6 +100,13 @@ I'm always interested in:
 * 🚀 Building projects
 * 💡 Discussing technology and ideas
 
+## 📊 GitHub Dashboard
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=HaniSemayat&show_icons=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaniSemayat&layout=compact&hide_border=true" height="180" alt="Top Languages">
+</p>
+
 ### 📫 Connect with me
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/hani-t-semayat/]
