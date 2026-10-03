@@ -103,7 +103,7 @@ I'm always interested in:
 ## 📊 GitHub Dashboard
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=HaniSemayat&show_icons=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com/?user=HaniSemayat&hide_border=true" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaniSemayat&layout=compact&hide_border=true" height="180" alt="Top Languages">
 </p>
 
