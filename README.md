@@ -102,9 +102,18 @@ I'm always interested in:
 
 ## 📊 GitHub Dashboard
 
+## 📊 GitHub Dashboard
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HaniSemayat&timezone=Africa%2FAddis_Ababa&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaniSemayat&layout=compact&hide_border=true" height="180" alt="Top Languages">
+  <img
+    src="https://streak-stats.demolab.com/?user=HaniSemayat&timezone=Africa%2FAddis_Ababa&hide_border=true&v=2"
+    alt="GitHub Streak"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaniSemayat&layout=compact&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ## 🐍 Contribution Snake
