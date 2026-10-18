@@ -140,7 +140,7 @@ I'm always interested in:
 ### 📫 Connect with me
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/hani-t-semayat/]
-* 🌐 Portfolio: Coming Soon
+* 🌐 Portfolio: [https://portfolio-react-seven-ruby.vercel.app/]
 * 📧 Email: [hani.t.semayat@gmail.com]
   
 ---
