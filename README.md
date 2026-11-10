@@ -102,8 +102,6 @@ I'm always interested in:
 
 ## 📊 GitHub Dashboard
 
-## 📊 GitHub Dashboard
-
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=HaniSemayat&timezone=Africa%2FAddis_Ababa&hide_border=true&v=2"
