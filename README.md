@@ -114,7 +114,6 @@ I'm always interested in:
   />
 </p>
 
-## 🐍 Contribution Snake
 
 ## 🐍 Contribution Snake
 
